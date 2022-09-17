@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16097fcb-9784-4d4b-bca8-1ea939e3bcb3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Cashier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter4/GrossPayInputValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/GrossPayInputValidation.java" afterDir="false" />
     </list>
@@ -87,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663412143307</updated>
-      <workItem from="1663412145504" duration="2946000" />
+      <workItem from="1663412145504" duration="3496000" />
     </task>
     <servers />
   </component>

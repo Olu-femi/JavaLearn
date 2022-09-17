@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16097fcb-9784-4d4b-bca8-1ea939e3bcb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/LetterSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/GrossPayInputValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/GrossPayInputValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Cashier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +46,22 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddNumbers">
+  <component name="RunManager" selected="Application.LetterSearch">
     <configuration name="AddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter4.AddNumbers" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cashier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.Cashier" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +86,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LetterSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.LetterSearch" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LetterSearch" />
+        <item itemvalue="Application.Cashier" />
         <item itemvalue="Application.AddNumbers" />
         <item itemvalue="Application.GrossPayInputValidation" />
       </list>
@@ -88,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663412143307</updated>
-      <workItem from="1663412145504" duration="3496000" />
+      <workItem from="1663412145504" duration="5050000" />
     </task>
     <servers />
   </component>
@@ -105,5 +133,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter4/LetterSearch.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
